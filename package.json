@@ -1,0 +1,16 @@
+{
+  "name": "tarea_01",
+  "version": "1.0.0",
+  "description": "Es la tarea del primer bloque",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "tarea_01",
+    "project01"
+  ],
+  "author": "Bruno Casal",
+  "license": "ISC"
+}
